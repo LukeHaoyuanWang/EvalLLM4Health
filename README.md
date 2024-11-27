@@ -13,9 +13,9 @@ Evaluating LLMs requires a combined **qualitative** and **quantitative** approac
 Together, the framework balances human judgment with systematic computational metrics, ensuring LLMs meet the nuanced demands of healthcare while maintaining high technical efficacy.
 
 
-![alt text](image-2.png)
+![Overview of Evaluation Framework](images/qualitative_and_quantitative_overview.png)
 
-![alt text](image-1.png)
+![Overview of Quantitative Evaluation](images/quantitative_evaluation_overview.png)
 ---
 
 ## Repository Contents
@@ -27,7 +27,7 @@ This section of the repository includes an implementation of a basic Ambient Dig
 - **Deidentification and Diarization**: Employing LLMs to anonymize sensitive information and assign speaker roles in conversations.
 - **Prompt-Based Summarization**: Generating concise, contextually relevant summaries of doctor-patient interactions using LLM-powered prompts.
 
-![alt text](image.png)
+![ADS Tool Structure](images/ads_structure.png)
 
 ### 2. Adversarial Simulation
 Contains scripts and workflows for generating adversarial examples to test the robustness of LLMs under varying input scenarios. These simulations are designed to:
