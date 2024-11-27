@@ -13,7 +13,7 @@ Evaluating LLMs requires a combined **qualitative** and **quantitative** approac
 Together, the framework balances human judgment with systematic computational metrics, ensuring LLMs meet the nuanced demands of healthcare while maintaining high technical efficacy.
 
 
-![Alt text](images/qualitative_and_quantitative_overview.png)
+![Alt text](images/qualitative_and_quantitative_overview.png "Qualitative and Quantitative Evaluation Overview")
 
 ![Alt text](images/quantitative_evaluation_overview.png "Quantitative Evaluation Overview")
 
